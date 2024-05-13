@@ -12,3 +12,6 @@ npm start
 
 #Step 5 
 Server started on http://localhost:5173/
+
+#Step 6
+Sign In to send messages to smart contracts
